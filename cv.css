@@ -6,3 +6,66 @@
 	font-family: 'Source sans Pro',Calibre, Tahoma, sans-serif;
 }
 
+.section
+{
+	margin-bottom: 70px;
+
+}
+
+.sec-gauche
+{
+	float: left;
+
+
+}
+
+sec-droite
+{
+	margin-left: 150px;
+}
+
+.h1
+{
+	font-size:28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388BB;
+}
+strong
+{
+	font-size:26px;
+	
+}
+
+
+.Section
+{
+	margin-bottom: 70px;
+	text-align:justify;
+}
+.h2
+{
+	font-size:28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388BB;
+}
+
+.sec-gauche
+
+{
+	float: left;
+	font-weight: bold;
+	font-size: 20px
+}
+
+.sec-droite
+{
+	margin-left: 150px;
+}
+
+.titre
+{
+	font-weight : bold;
+	font-size: 20px;
+}
