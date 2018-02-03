@@ -1,8 +1,18 @@
+
+h1{
+color: #333333; 
+}
+
 h2{
 font-size : 28 px; 
-color: #3388BB; 
+color: #555555; 
 text-transform : uppercase; 
-border-bottom: 3px solid #3388DD; 
+border: 2px solid #888888;
+box-shadow: 3px 5px 3px #AAAAAA;
+}
+
+h3{
+color: #333333; 
 }
 
 table {
@@ -18,11 +28,13 @@ width: 5%;
 /* Style table Competence */
 #tabCompetence th:nth-child(1){
 text-align: left;
+color: #333333; 
 }
 
 /* Style table Langues */
 #tabLangues th:nth-child(1){
 text-align: left;
+color: #333333; 
 }
 
 #tabLangues td:nth-child(2){
@@ -33,6 +45,7 @@ padding-left: 5em;
 span.titreFormation {
 font-style: italic;
 font-weight: bold;
+color: #333333; 
 }
 
 span.institution{
